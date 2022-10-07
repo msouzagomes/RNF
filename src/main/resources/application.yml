@@ -38,9 +38,9 @@ spring:
 onesignal:
   url: https://onesignal.com/api/v1
   app-id: 1312743e-26a8-47b1-800f-b8c074e5ceab
-  rest-key: NjdhNWRkMzQtYTIxMi00ZTJiLWJjMjctM2ViZDgxNjc0NjI0
-  app-id-return: 5e81832e-d05e-42c7-b217-58bd40c3395e
-  onesignal.rest-key-return: NGU5MTE3MGUtNTE2OS00ZDQ4LTkyMTYtZWRkMDc4NzU4YTg4
+  rest-key: NjdhNWRkMzQtYTIxMi00ZTJiLWJjMjctM2ViZDgxNjc
+  app-id-return: 5e81832e-d05e-42c7-b217-58bd40
+  onesignal.rest-key-return: NGU5MTE3MGUtNTE2OS00ZDQ4LTkyMTYtZWRkM
 
 amazon:
   accessKey:
