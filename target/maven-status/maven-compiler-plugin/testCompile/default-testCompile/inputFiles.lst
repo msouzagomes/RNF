@@ -1,0 +1,11 @@
+/home/house/Wayon/Projetos/veloe.rnf/src/test/java/br/com/veloe/rnf/model/ExceptionResponseTest.java
+/home/house/Wayon/Projetos/veloe.rnf/src/test/java/br/com/veloe/rnf/client/RnfClientTest.java
+/home/house/Wayon/Projetos/veloe.rnf/src/test/java/br/com/veloe/rnf/client/ReturnMessageClientTest.java
+/home/house/Wayon/Projetos/veloe.rnf/src/test/java/br/com/veloe/rnf/config/ConfigTest.java
+/home/house/Wayon/Projetos/veloe.rnf/src/test/java/br/com/veloe/rnf/client/OneSignalClientTest.java
+/home/house/Wayon/Projetos/veloe.rnf/src/test/java/br/com/veloe/rnf/config/StatusEnvioTest.java
+/home/house/Wayon/Projetos/veloe.rnf/src/test/java/br/com/veloe/rnf/builder/EntityBuilderTest.java
+/home/house/Wayon/Projetos/veloe.rnf/src/test/java/br/com/veloe/rnf/config/JmsConfigTest.java
+/home/house/Wayon/Projetos/veloe.rnf/src/test/java/br/com/veloe/rnf/service/impl/RnfImplTest.java
+/home/house/Wayon/Projetos/veloe.rnf/src/test/java/br/com/veloe/rnf/SpringBootRnfApplicationTest.java
+/home/house/Wayon/Projetos/veloe.rnf/src/test/java/br/com/veloe/rnf/controller/RnfControllerTest.java
